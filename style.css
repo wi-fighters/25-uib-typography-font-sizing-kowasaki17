@@ -22,11 +22,6 @@ footer{
 .description{
     font-size: 0.8em;
 }
-@media (min-width: 576px){
-    :root {
-        font-size: 1em;
-    }
-}
 @media (min-width: 768px){
     :root {
         font-size: 2em;
